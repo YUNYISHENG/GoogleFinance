@@ -1,4 +1,5 @@
 # googlefinance
+# Note: Those materials are from the website. Thanks to the contributors.
 Python module to get stock data from Google Finance API
 
 This module provides **no delay**, **real time** stock data in NYSE & NASDAQ. 
@@ -11,6 +12,7 @@ From PyPI with pip:
 	$pip install googlefinance
 
 From development repo (requires git)
+(Your own git directory)
 
 	$git clone https://github.com/hongtaocai/googlefinance.git
 	$cd googlefinance
